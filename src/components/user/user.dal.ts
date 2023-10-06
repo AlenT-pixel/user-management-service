@@ -176,7 +176,7 @@ class UserDal {
                     {
                         username: userData.username,
                         email: userData.email,
-                        role: userData.description,
+                        role: userData.role,
                         password: userData.password
                     },
                     {
